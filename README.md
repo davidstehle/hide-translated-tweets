@@ -1,5 +1,5 @@
 # Hide Translated Tweets
-A simple JavaScript snippet that hides non-English tweets in the For You tab on X (formerly Twitter). It removes the irrelevant tweets that have been flooding everyone's feed and restores the algorithm to what it should be — tweets from people you care about and topics that actually interest you.
+A userscript that hides non-English tweets in the For You tab on X (formerly Twitter). It removes the irrelevant tweets that have been flooding everyone's feed and restores the algorithm to what it should be — tweets from people you care about and topics that actually interest you.
 
 <br>
 
